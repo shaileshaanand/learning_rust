@@ -1,5 +1,5 @@
 /*
-* Using refrences we can refer values without taking ownership
+* Using refrences we can refer/pass values without taking ownership
 * & represents a reference
 */
 
