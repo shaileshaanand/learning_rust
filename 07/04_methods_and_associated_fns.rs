@@ -4,6 +4,7 @@ struct Rectangle {
     height: u32,
 }
 
+// Multiple implement blocks are allowed in rust
 impl Rectangle {
     fn area(&self) -> u32 {
         self.width * self.height
